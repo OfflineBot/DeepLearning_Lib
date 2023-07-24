@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\deep_learning_rs\\Cargo.toml",
+        ".\\run_lib\\Cargo.toml"
+    ]
+}
